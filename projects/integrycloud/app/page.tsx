@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen flex items-center justify-center px-6">
       <div className="max-w-2xl text-center">
         <h1 className="text-4xl font-bold tracking-tight">
-          Integry Cloud
+          Integry Cloud Project
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Guided workflows for complex cloud integrations.
