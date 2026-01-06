@@ -7,9 +7,6 @@ export default function Home() {
         alt="Integry logo"
         width="56"
       />
-        <h1 className="text-4xl font-bold tracking-tight">
-          Integry Cloud
-        </h1>
         <p className="mt-4 text-lg text-gray-600">
           Guided workflows for complex cloud integrations.
         </p>
