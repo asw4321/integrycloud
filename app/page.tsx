@@ -13,10 +13,6 @@ export default function Home() {
           Guided workflows for complex cloud integrations.
         </p>
 
-        <p className="mt-6 text-gray-500">
-          Stop deciphering vendor docs. Integry Cloud turns real-world
-          integration knowledge into step-by-step flows engineers can trust.
-        </p>
       </div>
     </main>
   );
