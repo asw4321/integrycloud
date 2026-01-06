@@ -2,6 +2,11 @@ export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center px-6">
       <div className="max-w-2xl text-center">
+         <img
+        src="/logo/integry_logo.png"
+        alt="Integry logo"
+        width="56"
+      />
         <h1 className="text-4xl font-bold tracking-tight">
           Integry Cloud
         </h1>
