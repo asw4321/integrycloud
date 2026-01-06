@@ -2,7 +2,12 @@ export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center px-6">
       <div class="container">
-          <img src="logo/integry_png" alt="Centered Image">
+                  <img
+          src="/logo/integry_logo.png"
+          alt="Integry logo"
+          width="56"
+          className="mx-auto"
+        />
       </div>
       <div className="max-w-2xl text-center">
 
