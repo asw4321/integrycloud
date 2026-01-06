@@ -1,15 +1,13 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center px-6">
-      <div class="container">
-                  <img
+      <div className="max-w-2xl text-center">
+        <img
           src="/logo/integry_logo.png"
           alt="Integry logo"
           width="56"
           className="mx-auto"
         />
-      </div>
-      <div className="max-w-2xl text-center">
 
         <p className="mt-4 text-lg text-gray-600">
           Guided workflows for complex cloud integrations.
